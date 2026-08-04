@@ -65,10 +65,6 @@
 
 ### 🚀 Featured Project
 
-<a href="https://github.com/Dhanush-Rajulapati">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-Rajulapati&repo=ExpenseSync&theme=radical" />
-</a>
-
 **ExpenseSync — Smart Shared Expense Management System**
 
 - 🔐 JWT Authentication & Spring Security
@@ -77,38 +73,21 @@
 - ⚙️ REST APIs using Spring Boot
 - 🗄️ PostgreSQL + JPA/Hibernate
 
-<br clear="right"/>
+🔗 [View Repository](https://github.com/Dhanush-Rajulapati/ExpenseSync)
 
 ---
 
-### 📊 GitHub Analytics
+### 🔥 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanush-Rajulapati&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Rajulapati&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Dhanush-Rajulapati&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush-Rajulapati&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanush-Rajulapati&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush-Rajulapati&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dhanush-Rajulapati/Dhanush-Rajulapati/output/github-contribution-grid-snake.svg" />
-</p>
-
-> Set this up using the **Platane/snk** GitHub Action in your profile repo (instructions below).
+> This card shows my **total contributions**, **current streak**, and **longest streak** — updates automatically every day.
 
 ---
 
