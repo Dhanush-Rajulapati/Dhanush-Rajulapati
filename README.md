@@ -85,11 +85,6 @@
 </p>
 
 <p align="center">
-  <!-- Contributions calendar (visual active days) -->
-  <img src="https://ghchart.rshah.org/Dhanush-Rajulapati" alt="Contributions chart" />
-</p>
-
-<p align="center">
   <!-- Activity graph (stable vercel-hosted alternative) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-Rajulapati&theme=react-dark&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff" alt="Activity Graph" />
 </p>
@@ -99,15 +94,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Dhanush-Rajulapati&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
 </p>
 
+---
+
+### 💡 LeetCode Highlights
+
 <p align="center">
-  <!-- LeetCode submission / profile card -->
-  <img src="https://leetcode-stats.vercel.app/api?username=dhanush995" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/dhanush995/">
+    <img src="https://leetcode-stats.vercel.app/api?username=dhanush995" alt="LeetCode Stats" />
+  </a>
 </p>
 
-> Notes:
-> - I added an activity graph (github-readme-activity-graph) — this is a vercel-hosted alternative to older Heroku widgets and is more reliable.
-> - I also included GitHub stats and top languages cards for a similar layout to the example profile you provided.
-> - If you want a guaranteed, always-available solution I can add a GitHub Action that generates these SVGs and commits them to your repo so they are served from GitHub itself.
+- Solved: **700+** problems on LeetCode
+- Profile: https://leetcode.com/u/dhanush995/
 
 ---
 
