@@ -79,8 +79,9 @@
 ### 🔥 GitHub Activity
 
 <p align="center">
-  <!-- GitHub summary (contributions, commits, PRs, stars, etc.) - kept stable vercel widget -->
+  <!-- GitHub summary (contributions, commits, PRs, stars, etc.) -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanush-Rajulapati&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-Rajulapati&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -88,16 +89,25 @@
   <img src="https://ghchart.rshah.org/Dhanush-Rajulapati" alt="Contributions chart" />
 </p>
 
-<!-- Removed third-party widgets known to be unreliable (Heroku-hosted widgets and others). If you want them back, we can add self-hosted SVGs via GitHub Actions. -->
+<p align="center">
+  <!-- Activity graph (stable vercel-hosted alternative) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-Rajulapati&theme=react-dark&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff" alt="Activity Graph" />
+</p>
 
 <p align="center">
-  <!-- LeetCode submission / profile card (removed theme param to avoid "invalid theme" errors) -->
+  <!-- Optional: GitHub trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush-Rajulapati&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
+</p>
+
+<p align="center">
+  <!-- LeetCode submission / profile card -->
   <img src="https://leetcode-stats.vercel.app/api?username=dhanush995" alt="LeetCode Stats" />
 </p>
 
 > Notes:
-> - Some widgets are third-party services that may go down; I removed the most unreliable ones to prevent broken images for viewers.
-> - If you prefer the visual streak or a custom theme, I can add a GitHub Action to generate and commit the SVG images so they are served reliably from your repo.
+> - I added an activity graph (github-readme-activity-graph) — this is a vercel-hosted alternative to older Heroku widgets and is more reliable.
+> - I also included GitHub stats and top languages cards for a similar layout to the example profile you provided.
+> - If you want a guaranteed, always-available solution I can add a GitHub Action that generates these SVGs and commits them to your repo so they are served from GitHub itself.
 
 ---
 
