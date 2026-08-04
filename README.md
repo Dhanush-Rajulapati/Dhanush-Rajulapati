@@ -98,6 +98,7 @@
 
 ### 💡 LeetCode Highlights
 
+<!-- LEETCODE-START -->
 <p align="center">
   <a href="https://leetcode.com/u/dhanush995/">
     <img src="https://leetcode-stats.vercel.app/api?username=dhanush995" alt="LeetCode Stats" />
@@ -106,6 +107,7 @@
 
 - Solved: **700+** problems on LeetCode
 - Profile: https://leetcode.com/u/dhanush995/
+<!-- LEETCODE-END -->
 
 ---
 
