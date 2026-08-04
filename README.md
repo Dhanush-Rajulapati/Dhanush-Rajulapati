@@ -79,11 +79,7 @@
 ### 🔥 GitHub Activity
 
 <p align="center">
-  <!-- Current streak & longest streak -->
-  <img src="https://streak-stats.demolab.com?user=Dhanush-Rajulapati&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
+  <!-- Removed unstable streak widget to avoid broken images -->
   <!-- GitHub summary (contributions, commits, PRs, stars, etc.) -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanush-Rajulapati&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
@@ -93,16 +89,16 @@
   <img src="https://ghchart.rshah.org/Dhanush-Rajulapati" alt="Contributions chart" />
 </p>
 
-<!-- Removed activity-graph.herokuapp.com due to intermittent outages; using other stable widgets above -->
+<!-- Removed Activity Graph and other unstable widgets that produced errors for some viewers -->
 
 <p align="center">
-  <!-- LeetCode submission / profile card -->
-  <img src="https://leetcode-stats.vercel.app/api?username=dhanush995&theme=radical" alt="LeetCode Stats" />
+  <!-- LeetCode submission / profile card (removed theme param to avoid "invalid theme" errors) -->
+  <img src="https://leetcode-stats.vercel.app/api?username=dhanush995" alt="LeetCode Stats" />
 </p>
 
 > Notes:
 > - "Contributions chart" shows my active days across the year.
-> - The streak card shows my current streak and my longest (maximum) streak.
+> - The GitHub Stats card shows commits, PRs, and repository counts.
 > - The LeetCode card displays solved problems and submission stats for my LeetCode account.
 
 ---
