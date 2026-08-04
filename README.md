@@ -2,7 +2,6 @@
 <h3 align="center">Java Full Stack Developer | Spring Boot Enthusiast | DSA Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Enthu[...]" />
 </p>
 
 <p align="center">
@@ -94,10 +93,7 @@
   <img src="https://ghchart.rshah.org/Dhanush-Rajulapati" alt="Contributions chart" />
 </p>
 
-<p align="center">
-  <!-- Activity graph (alternative view) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Dhanush-Rajulapati&theme=react-dark" alt="Activity Graph" />
-</p>
+<!-- Removed activity-graph.herokuapp.com due to intermittent outages; using other stable widgets above -->
 
 <p align="center">
   <!-- LeetCode submission / profile card -->
