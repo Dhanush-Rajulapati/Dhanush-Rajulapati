@@ -2,7 +2,7 @@
 <h3 align="center">Java Full Stack Developer | Spring Boot Enthusiast | DSA Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;700%2B+LeetCode+Problems+Solved;Building+ExpenseSync;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Enthu[...]" />
 </p>
 
 <p align="center">
@@ -80,14 +80,34 @@
 ### 🔥 GitHub Activity
 
 <p align="center">
+  <!-- Current streak & longest streak -->
   <img src="https://streak-stats.demolab.com?user=Dhanush-Rajulapati&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
+  <!-- GitHub summary (contributions, commits, PRs, stars, etc.) -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanush-Rajulapati&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-> This card shows my **total contributions**, **current streak**, and **longest streak** — updates automatically every day.
+<p align="center">
+  <!-- Contributions calendar (visual active days) -->
+  <img src="https://ghchart.rshah.org/Dhanush-Rajulapati" alt="Contributions chart" />
+</p>
+
+<p align="center">
+  <!-- Activity graph (alternative view) -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Dhanush-Rajulapati&theme=react-dark" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <!-- LeetCode submission / profile card -->
+  <img src="https://leetcode-stats.vercel.app/api?username=dhanush995&theme=radical" alt="LeetCode Stats" />
+</p>
+
+> Notes:
+> - "Contributions chart" shows my active days across the year.
+> - The streak card shows my current streak and my longest (maximum) streak.
+> - The LeetCode card displays solved problems and submission stats for my LeetCode account.
 
 ---
 
