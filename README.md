@@ -79,8 +79,7 @@
 ### 🔥 GitHub Activity
 
 <p align="center">
-  <!-- Removed unstable streak widget to avoid broken images -->
-  <!-- GitHub summary (contributions, commits, PRs, stars, etc.) -->
+  <!-- GitHub summary (contributions, commits, PRs, stars, etc.) - kept stable vercel widget -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanush-Rajulapati&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
@@ -89,7 +88,7 @@
   <img src="https://ghchart.rshah.org/Dhanush-Rajulapati" alt="Contributions chart" />
 </p>
 
-<!-- Removed Activity Graph and other unstable widgets that produced errors for some viewers -->
+<!-- Removed third-party widgets known to be unreliable (Heroku-hosted widgets and others). If you want them back, we can add self-hosted SVGs via GitHub Actions. -->
 
 <p align="center">
   <!-- LeetCode submission / profile card (removed theme param to avoid "invalid theme" errors) -->
@@ -97,9 +96,8 @@
 </p>
 
 > Notes:
-> - "Contributions chart" shows my active days across the year.
-> - The GitHub Stats card shows commits, PRs, and repository counts.
-> - The LeetCode card displays solved problems and submission stats for my LeetCode account.
+> - Some widgets are third-party services that may go down; I removed the most unreliable ones to prevent broken images for viewers.
+> - If you prefer the visual streak or a custom theme, I can add a GitHub Action to generate and commit the SVG images so they are served reliably from your repo.
 
 ---
 
